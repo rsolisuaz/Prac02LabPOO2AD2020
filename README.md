@@ -156,6 +156,8 @@ Dando un total de 120 puntos. **SI SU PROGRAMA NO COMPILA OBTENDRÁ CERO PUNTOS*
 **RECUERDA QUE SOLO DEBES HACER CAMBIOS EN LOS TRES METODOS MENCIONADOS, NO DEBES CAMBIAR NINGUNA OTRA PARTE DEL CÓDIGO (DE HECHO, DONDE TU DEBES ESCRIBIR CODIGO ESTA MARCADO CON UN COMENTARIO *//TODO* )** 
 
 ##NOTAS IMPORTANTES
+**SI NECESITAS HACER CLASES EXTRA PARA SOLUCIONAR LA PRACTICA, ASEGURATE DE COLOCARLAS EN EL ARCHIVO ExpRegSearcher.java , SI DECIDES PONERLAS EN ARCHIVOS SEPARADOS NO OLVIDES AGREGARLAS CON `git add` ANTES DE HACER COMMIT**
+
 1)  Recuerda que de acuerdo a lo visto en la Practica 1, el proceso que debes estar haciendo es:
 	a) Haz cambios  en el archivo fuente ExpRegSearcher.java
 	b) **Compila y ejecuta el programa en tu computadora para ver que realiza lo que quieres de acuerdo a los cambios que realizaste en el código** (trata de ir haciendo cambios incrementales, por ejemplo, completa uno de los métodos primero y prueba que funcione antes de hacer cambios en los otros métodos)
