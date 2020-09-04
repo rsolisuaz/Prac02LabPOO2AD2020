@@ -1,13 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.text.DateFormat;
-import java.text.ParseException;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Date;
-import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
@@ -17,9 +11,7 @@ import java.util.regex.PatternSyntaxException;
  * @author COLOQUE AQUI SU MATRICULA
  */
 public class ExpRegSearcher {
-    private DateFormat formateadorCorto;
-    private DateFormat formateadorLargo;
-    private Locale region;
+
     public static final int ALFABETICO_GLOBAL_ASCENDENTE = 1;
     public static final int POR_LONGITUD_GLOBAL_DESCENDENTE = 2;
     public static final int ALFABETICO_POR_LINEA_ASCENDENTE= 3;
